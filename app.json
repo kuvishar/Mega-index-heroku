@@ -6,11 +6,11 @@
   "env": {
      "UserName": {
       "description": "Please enter Your MEGA.NZ Username/Email",
-      "value": "kuvishar5367@gmail.com"
+      "value": ""
     },
      "PassWord": {
       "description": "Please enter your MEGA.NZ Password",
-      "value": "@tam2397"
+      "value": ""
     }
 
 

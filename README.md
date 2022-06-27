@@ -11,7 +11,7 @@ This creates a backdoor for mega storage and serves publicly.
 
 [HEROKU RAPID DEPLOYMENT AVAILABLE](https://developeranaz.github.io/Mega-index-heroku/random.sh) without froking or github account.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kuvishar/Mega-index-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ZEET RAPID DEPLOYMENT AVAILABLE 👇
 [![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/developeranaz/Mega-index-heroku)
